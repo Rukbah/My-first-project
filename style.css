@@ -1,0 +1,42 @@
+.searchForm {
+  display: block;
+  padding: 20px 50px;
+  margin-bottom: -50px;
+}
+
+h1 {
+  margin-top: 60px;
+  margin-left: 40px;
+}
+h2 {
+  margin-top: 20px;
+  margin-left: 70px;
+  margin-bottom: -50px;
+}
+
+.container {
+  font-size: 14px;
+  margin-left: 280px;
+  margin-bottom: -100px;
+}
+
+.container-2 {
+  margin-left: 500px;
+  font-size: 14px;
+}
+h3 {
+  font-size: 20px;
+}
+
+.card-1,
+.card-2,
+.card-3,
+.card-4 {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.card-text,
+.card-title {
+  text-align: center;
+  font-size: 15px;
+}
